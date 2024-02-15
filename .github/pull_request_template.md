@@ -1,0 +1,1 @@
+-e "## Issue Description\n\nPlease describe the issue you are addressing.\n\n## Proposed Solution\n\nDescribe your proposed solution to the issue.\n\n## Additional Information\n\nAny additional information or context." 

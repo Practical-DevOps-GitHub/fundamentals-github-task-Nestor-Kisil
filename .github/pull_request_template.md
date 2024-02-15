@@ -1,1 +1,4 @@
--e "## Issue Description\n\nPlease describe the issue you are addressing.\n\n## Proposed Solution\n\nDescribe your proposed solution to the issue.\n\n## Additional Information\n\nAny additional information or context." 
+ I have performed a self-review of my code
+ If it is a core feature, I have added thorough tests
+ Do we need to implement analytics?
+ Will this be part of a product update? If yes, please write one phrase about this update
